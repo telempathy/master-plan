@@ -2,19 +2,17 @@
 
 ## Background
 
-### Scientists agree climate change is an existential threat to our species. Why are we doing nothing about it?
+### Climate change is an existential threat to our species. Why are we doing nothing about it?
 
-### Humans are exceedingly bad at making good decisions in large groups. In part, this is why we elect governments who choose not to address climate change.
+### Humans are individually smart but collectively dumb. This is why we elect governments who aren't addressing climate change.
 
-### Optimal decision making requires optimal collaboration.
+### Optimal decision making requires optimal collaboration, which requires optimal empathy.
 
-### Optimal collaboration requires optimal empathy.
-
-### Humans did not evolve to empathize and collaborate at large scales.
+### Humans evolved to empathize and make decisions at small scales (>150 people). We are not equipped for planet level decision making.
 
 ### We are no longer subject to natural selection. Our evolution instead comes from collective knowledge and tools.
 
-### We need to develop a tool to enable better empathy at scale, and therefore better decision making at scale.
+### We need to develop a tool to enable optimal empathy at scale, and therefore optimal decision making at scale.
 
 ## Plan
 
